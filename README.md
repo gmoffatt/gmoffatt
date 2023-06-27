@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @gmoffatt
-- 👀 I’m interested in data analytics
-- 🌱 I’m currently learning data analytics - Python, SQL, R, visualisations
+- 👀 I am a data analyst
 - 📫 How to reach me: [gmoffatt.medium.com](https://gmoffatt.medium.com/)
 
 <!---
